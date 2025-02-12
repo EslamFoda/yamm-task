@@ -32,7 +32,7 @@
       "store_url": "https://electronicsemporium.com",
       "amount": 199.99,
       "active": false,
-      "decision": null,
+      "decision": "reject",
       "items": [
         {
           "name": "Headphones",
