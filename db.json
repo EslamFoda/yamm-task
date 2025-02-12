@@ -151,8 +151,8 @@
       "store_logo": "https://images.pexels.com/photos/1337380/pexels-photo-1337380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "store_url": "https://electronicsemporium.com",
       "amount": 199.99,
-      "active": false,
-      "decision": null,
+      "active": true,
+      "decision": "escalate",
       "items": [
         {
           "name": "Headphones",
